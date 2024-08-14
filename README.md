@@ -1,7 +1,8 @@
 # freeCodeCamp Relational Databases Certification Projects
 This is a repository showing all the databases I built for the freeCodeCamp Relational Databases certification program
 
-# 1. Celestial Bodies Database (universe.sql)
+# 1. Celestial Bodies Database 
+### SQL Dump: ([universe.sql](https://github.com/Molo-M/freecodecamp_database_projects/blob/main/universe.sql))
 ## Overview
 This project is part of the freeCodeCamp curriculum and involves creating and managing a PostgreSQL database named **universe**. The database is designed to represent various celestial entities and their relationships, including galaxies, stars, planets, moons, and other celestial bodies.
 
